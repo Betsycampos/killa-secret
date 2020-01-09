@@ -7,7 +7,7 @@
 }
 
 .bg-banner {
-  background: url("/imagenes/mobile.jpg");
+  background: url("../imagenes/mobile.jpg");
   background-attachment: fixed;      
   width: 100%;
   min-height: 850px;
@@ -27,7 +27,7 @@
     padding: 2% !important;
   }
   .bg-banner {
-    background: url("/imagenes/desktop.jpg");
+    background: url("../imagenes/desktop.jpg");
     background-attachment: fixed;    
     min-height: 700px;
     height: 128vh;
